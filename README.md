@@ -1,0 +1,6 @@
+- 👋 Hi, I’m K Subham Patra
+- 👀 I am MEAN and PHP developer
+- 🌱 I’m currently learning advance node
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
